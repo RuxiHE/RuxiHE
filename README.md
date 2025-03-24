@@ -1,6 +1,6 @@
 # Hi, I'm Ruxi HE 👋
 
-🎓 I'm a Master's student in Data Science at ESSEC and CentraleSupélec
+🎓 I'm a Master's student in Data Science and Business Analytics at ESSEC and CentraleSupélec
 
 📍 Based in Paris | Open to an end-of-study internship in Data Science / Analytics 
 
