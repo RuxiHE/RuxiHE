@@ -45,7 +45,7 @@
 
 ---
 
-### 🍇 [Bachelor Thesis: Fresh Grape Price Prediction](https://github.com/RuxiHE/bachelor-thesis)  
+### 🍇 [Bachelor Final Project: Fresh Grape Price Prediction](https://github.com/RuxiHE/bachelor-thesis)  
 - Conducted data mining on fresh grape data from the JD e-commerce platform to understand consumer preferences and market trends.  
 - Developed classification models, including K-nearest neighbor, logistic regression, and random forest, to predict average prices of fresh grapes based on various features.  
 - Key words: data mining, e-commerce analytics, price prediction, machine learning, consumer behavior.
